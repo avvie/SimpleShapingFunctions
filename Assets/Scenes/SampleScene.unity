@@ -276,4 +276,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3abfcea654432f64fb549373e6dc9928, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  defferedFog: {fileID: 4800000, guid: 7b72871fe178e6c40bd024b630c4f7bb, type: 3}
+  defferedFog: {fileID: 4800000, guid: a9e17b78846c1754c843984f02eab6a8, type: 3}
